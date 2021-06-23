@@ -19,10 +19,10 @@ Make sure you have the following installed:
 - Pillow for Python 3+
 - Git
 
-1.) Download the tool from [here]().
-2.) Take an icon you have created for your Flutter app. (Should be square and a `*.png` image.)
-3.) Place the tool and your base image in the same directory.
-4.) Run one of these commands according to what you want to do:
+- 1.) Download the tool from [here]().
+- 2.) Take an icon you have created for your Flutter app. (Should be square and a `*.png` image.)
+- 3.) Place the tool and your base image in the same directory.
+- 4.) Run one of these commands according to what you want to do:
   - Generate icons for a Mac OSX application:
   ```bash
   $ python iconhelper.py --source mypng.png --platform MacOS
@@ -35,8 +35,8 @@ Make sure you have the following installed:
   ```bash
   $ python iconhelper.py --source mypng.png --platform Windows
   ```
-5.) Place the generated directory's icons in the place where they should be for the correct platform. The result directory's name will be of the format `dist<Platform>`.
-6.) Enjoy! :)
+- 5.) Place the generated directory's icons in the place where they should be for the correct platform. The result directory's name will be of the format `dist<Platform>`.
+- 6.) Enjoy! :)
 
 ## Contributing :book:
 
