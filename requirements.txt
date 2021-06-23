@@ -1,0 +1,5 @@
+Pillow
+colorama
+pip 
+setuptools
+wheel
