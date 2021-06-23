@@ -19,7 +19,7 @@ Make sure you have the following installed:
 - Pillow for Python 3+
 - Git
 
-- 1.) Download the tool from [here]().
+- 1.) Download the tool from [here](https://raw.githubusercontent.com/iamtheblackunicorn/IconHelper/main/src/iconhelper.py).
 - 2.) Take an icon you have created for your Flutter app. (Should be square and a `*.png` image.)
 - 3.) Place the tool and your base image in the same directory.
 - 4.) Run one of these commands according to what you want to do:
