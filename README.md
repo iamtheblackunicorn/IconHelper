@@ -16,7 +16,8 @@ This tool, written in Python, my native language, lets you do just that. Current
 Make sure you have the following installed:
 
 - Python 3+
-- Pillow for Python 3+
+- Pillow for Python 3+ (`python3 -m pip install pillow`)
+- Colorama for Python 3+ (`python3 -m pip install colorama`)
 - Git
 
 - 1.) Download the tool from [here](https://raw.githubusercontent.com/iamtheblackunicorn/IconHelper/main/src/iconhelper.py).
